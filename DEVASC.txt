@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Yo estoy en camino de pasar el examne de DevNet Devasc
+=======
+Yo estoy en camino de pasar el examne de NetAcad Devasc
+>>>>>>> test
+ Yo estoy iniciando a enter Git
+Este texto fue adicionado originalmente mientras estabamos en la rema feature
